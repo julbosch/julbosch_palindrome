@@ -1,4 +1,4 @@
-# require "julbosch_palindrome/version"
+require "julbosch_palindrome/version"
 
 class String
 
